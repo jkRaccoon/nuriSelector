@@ -58,6 +58,11 @@ body {
   padding: 30px;
 }
 
+.resultDisp{
+	overflow:hidden;	
+	
+}
+
 
 /*
  * Header
@@ -110,7 +115,7 @@ body {
  */
 
 .cover {
-  padding: 0 20px;
+  padding: 80px 20px;
 }
 .cover .btn-lg {
   padding: 10px 20px;
